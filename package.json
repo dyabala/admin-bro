@@ -84,6 +84,7 @@
     "@babel/preset-typescript": "^7.10.1",
     "@babel/register": "^7.10.1",
     "@carbon/icons-react": "^10.12.0",
+    "@material-ui/core": "^4.11.0",
     "@types/react": "^16.9.16",
     "axios": "^0.19.2",
     "babel-plugin-styled-components": "^1.10.7",
